@@ -39,4 +39,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=;I'm+always+down+to+collab+:)">
 </h3>
 
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 <br/>
