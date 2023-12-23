@@ -40,5 +40,6 @@
 </h3>
 
 <img align="center" src="Capture.PNG" />
+<img align="center" src="1.PNG" />
 
 <br/>
